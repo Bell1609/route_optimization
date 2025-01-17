@@ -1,0 +1,13 @@
+streamlit
+pandas
+folium
+geopandas
+streamlit_folium
+polyline
+osmnx
+requests
+shapely
+numpy~=1.26.4
+geopy
+matplotlib
+hydralit_components
